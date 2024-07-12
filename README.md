@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/lalitsontyal/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/lalitsontyal/LEETCODE/tree/master/1293-three-consecutive-odds) |
 | [1720-crawler-log-folder](https://github.com/lalitsontyal/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/lalitsontyal/LEETCODE/tree/master/1803-average-waiting-time) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/lalitsontyal/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/lalitsontyal/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
