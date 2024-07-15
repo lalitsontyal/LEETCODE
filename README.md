@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/lalitsontyal/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lalitsontyal/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/lalitsontyal/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [1293-three-consecutive-odds](https://github.com/lalitsontyal/LEETCODE/tree/master/1293-three-consecutive-odds) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/lalitsontyal/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lalitsontyal/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/lalitsontyal/LEETCODE/tree/master/0907-koko-eating-bananas) |
 ## Sorting
@@ -82,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2306-create-binary-tree-from-descriptions](https://github.com/lalitsontyal/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/lalitsontyal/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/lalitsontyal/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
