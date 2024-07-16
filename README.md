@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/lalitsontyal/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/lalitsontyal/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/lalitsontyal/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/lalitsontyal/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Stack
 |  |
 | ------- |
@@ -86,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/lalitsontyal/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/lalitsontyal/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/lalitsontyal/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/lalitsontyal/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
 |  |
@@ -100,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/lalitsontyal/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/lalitsontyal/LEETCODE/tree/master/2047-find-a-peak-element-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/lalitsontyal/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
