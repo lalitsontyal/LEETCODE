@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/lalitsontyal/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/lalitsontyal/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lalitsontyal/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/lalitsontyal/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [1293-three-consecutive-odds](https://github.com/lalitsontyal/LEETCODE/tree/master/1293-three-consecutive-odds) |
@@ -76,17 +77,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/lalitsontyal/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/lalitsontyal/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lalitsontyal/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/lalitsontyal/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [2047-find-a-peak-element-ii](https://github.com/lalitsontyal/LEETCODE/tree/master/2047-find-a-peak-element-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/lalitsontyal/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/lalitsontyal/LEETCODE/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/lalitsontyal/LEETCODE/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/lalitsontyal/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/lalitsontyal/LEETCODE/tree/master/0726-number-of-atoms) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/lalitsontyal/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Tree
@@ -114,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/lalitsontyal/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/lalitsontyal/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
