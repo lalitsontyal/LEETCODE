@@ -10,22 +10,18 @@
  */
 class Solution {
 public:
+    ListNode* reverseDone(ListNode* head)
+    {
+        if(head == NULL || head->next == NULL)
+            return head;
+        ListNode* newHead = reverseDone(head->next);
+        ListNode* front = head->next;
+        front->next = head;
+        head->next = NULL;
+        return newHead;
+    } 
     ListNode* reverseList(ListNode* head) {
-        if(head == NULL)
-            return head;
-        if(head->next == NULL)
-            return head;
-        
-       ListNode* curr = head;
-       ListNode* prev = NULL;
-       ListNode* fut = NULL;
-       while(curr != NULL)
-       {
-            fut=curr->next;
-            curr->next=prev;
-            prev=curr;
-            curr=fut;
-       } 
-       return prev;
+        // recursive way
+        return reverseDone(head);
     }
 };
