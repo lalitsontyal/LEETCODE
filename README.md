@@ -210,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/lalitsontyal/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/lalitsontyal/LEETCODE/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
