@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/lalitsontyal/LEETCODE/tree/master/2047-find-a-peak-element-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/lalitsontyal/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/lalitsontyal/LEETCODE/tree/master/2502-sort-the-people) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/lalitsontyal/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2846-robot-collisions](https://github.com/lalitsontyal/LEETCODE/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/lalitsontyal/LEETCODE/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Math
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/lalitsontyal/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/lalitsontyal/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/lalitsontyal/LEETCODE/tree/master/2502-sort-the-people) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/lalitsontyal/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/lalitsontyal/LEETCODE/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/lalitsontyal/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/lalitsontyal/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Database
 |  |
 | ------- |
