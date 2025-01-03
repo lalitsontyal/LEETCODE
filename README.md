@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lalitsontyal/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2047-find-a-peak-element-ii](https://github.com/lalitsontyal/LEETCODE/tree/master/2047-find-a-peak-element-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/lalitsontyal/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2358-number-of-ways-to-split-array](https://github.com/lalitsontyal/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
 | [2502-sort-the-people](https://github.com/lalitsontyal/LEETCODE/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lalitsontyal/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2846-robot-collisions](https://github.com/lalitsontyal/LEETCODE/tree/master/2846-robot-collisions) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/lalitsontyal/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/lalitsontyal/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lalitsontyal/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Database
 |  |
