@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/lalitsontyal/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lalitsontyal/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/lalitsontyal/LEETCODE/tree/master/1803-average-waiting-time) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lalitsontyal/LEETCODE/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lalitsontyal/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2047-find-a-peak-element-ii](https://github.com/lalitsontyal/LEETCODE/tree/master/2047-find-a-peak-element-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/lalitsontyal/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/lalitsontyal/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/lalitsontyal/LEETCODE/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/lalitsontyal/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lalitsontyal/LEETCODE/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2032-largest-odd-number-in-string](https://github.com/lalitsontyal/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/lalitsontyal/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2465-shifting-letters-ii](https://github.com/lalitsontyal/LEETCODE/tree/master/2465-shifting-letters-ii) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/lalitsontyal/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lalitsontyal/LEETCODE/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/lalitsontyal/LEETCODE/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/lalitsontyal/LEETCODE/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lalitsontyal/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
