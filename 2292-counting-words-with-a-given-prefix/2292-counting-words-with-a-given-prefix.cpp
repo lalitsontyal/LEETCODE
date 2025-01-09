@@ -6,7 +6,7 @@ public:
         for(auto it : words)
         {
             //string word = it;
-            if(it.substr(0,n)==pref)
+            if(it.substr(0,n)==pref && it.size() >=n)
                 count++;
         }
         return count;
