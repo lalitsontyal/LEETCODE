@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/lalitsontyal/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/lalitsontyal/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/lalitsontyal/LEETCODE/tree/master/0948-sort-an-array) |
+| [0952-word-subsets](https://github.com/lalitsontyal/LEETCODE/tree/master/0952-word-subsets) |
 | [1293-three-consecutive-odds](https://github.com/lalitsontyal/LEETCODE/tree/master/1293-three-consecutive-odds) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/lalitsontyal/LEETCODE/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/lalitsontyal/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/lalitsontyal/LEETCODE/tree/master/0726-number-of-atoms) |
+| [0952-word-subsets](https://github.com/lalitsontyal/LEETCODE/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/lalitsontyal/LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lalitsontyal/LEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/lalitsontyal/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/lalitsontyal/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lalitsontyal/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/lalitsontyal/LEETCODE/tree/master/0726-number-of-atoms) |
+| [0952-word-subsets](https://github.com/lalitsontyal/LEETCODE/tree/master/0952-word-subsets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/lalitsontyal/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/lalitsontyal/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/lalitsontyal/LEETCODE/tree/master/2502-sort-the-people) |
