@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/lalitsontyal/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/lalitsontyal/LEETCODE/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/lalitsontyal/LEETCODE/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/lalitsontyal/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lalitsontyal/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lalitsontyal/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/lalitsontyal/LEETCODE/tree/master/0066-plus-one) |
 | [1642-water-bottles](https://github.com/lalitsontyal/LEETCODE/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lalitsontyal/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/lalitsontyal/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
