@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1642-water-bottles](https://github.com/lalitsontyal/LEETCODE/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/lalitsontyal/LEETCODE/tree/master/1803-average-waiting-time) |
+| [1929-concatenation-of-array](https://github.com/lalitsontyal/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lalitsontyal/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/lalitsontyal/LEETCODE/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/lalitsontyal/LEETCODE/tree/master/2645-pass-the-pillow) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/lalitsontyal/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/lalitsontyal/LEETCODE/tree/master/1803-average-waiting-time) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lalitsontyal/LEETCODE/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1929-concatenation-of-array](https://github.com/lalitsontyal/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/lalitsontyal/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2047-find-a-peak-element-ii](https://github.com/lalitsontyal/LEETCODE/tree/master/2047-find-a-peak-element-ii) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/lalitsontyal/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
